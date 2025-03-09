@@ -1,4 +1,6 @@
 UI of Toggle switch app looks like below,
+
+
 ![image](https://github.com/user-attachments/assets/10bb7489-a32f-48de-8918-ceb1cf52fd34)
 
 ![image](https://github.com/user-attachments/assets/6cafd205-ad2e-47a4-bcf5-6b95b295d196)
